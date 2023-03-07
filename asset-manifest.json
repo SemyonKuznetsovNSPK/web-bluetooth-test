@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/web-bluetooth-test/static/css/main.faf0beee.css",
+    "main.js": "/web-bluetooth-test/static/js/main.8f234a9e.js",
+    "static/js/787.e9bc6940.chunk.js": "/web-bluetooth-test/static/js/787.e9bc6940.chunk.js",
+    "static/media/logo.svg": "/web-bluetooth-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/web-bluetooth-test/index.html",
+    "main.faf0beee.css.map": "/web-bluetooth-test/static/css/main.faf0beee.css.map",
+    "main.8f234a9e.js.map": "/web-bluetooth-test/static/js/main.8f234a9e.js.map",
+    "787.e9bc6940.chunk.js.map": "/web-bluetooth-test/static/js/787.e9bc6940.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf0beee.css",
+    "static/js/main.8f234a9e.js"
+  ]
+}
